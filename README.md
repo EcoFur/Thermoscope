@@ -12,7 +12,7 @@ Use Arduino IDE, Depend RP2040 &amp; Max6675 Type K thermocouples
 ## 接线  
 我用的是SEEED的XIAO RP2040，做完后我就用硅橡胶密封了，接线只能从我的程序里推测  
 首先OLED接IIC协议口，默认**GPIO 4**和**GPIO 5**  
-热电偶模块接SPI协议口，我设置的SCK**GPIO 2**, CS **GPIO 1**, SO **GPIO4**  
+热电偶模块接SPI协议口，我设置的SCK **GPIO 2**, CS **GPIO 1**, SO **GPIO4**  
 按钮是**GPIO 0**, 滑阻是**GPIO 29**  
 ## 补充  
 至于CPP文件夹，是我做滚动存储时做测试的文件
