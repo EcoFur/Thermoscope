@@ -2,7 +2,8 @@
 Use Arduino IDE, Depend RP2040 &amp; Max6675 Type K thermocouples  
 ### Sorry here only Chinese  
 ## 背景 
-这个项目本来是化学课上老师提了一嘴，我就做了出来，后来拍了个视频到Bilibili，有人评论找我要代码，我就干脆开源算了，这也是我的第一个开源项目，**请多多关照**
+这个项目本来是化学课上老师提了一嘴，我就做了出来，后来拍了个视频到Bilibili，有人评论找我要代码，我就干脆开源算了，这也是我的第一个开源项目，**请多多关照**  
+***[视频](https://www.bilibili.com/video/BV1Qw411a72G/ "Bilibili的跳链")*** 
 ## 材料  
 > **SSD1306** OLED显示屏  
 > **MAX6675** K型热电偶模块  
