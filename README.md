@@ -6,7 +6,7 @@ Use Arduino IDE, Depend RP2040 &amp; Max6675 Type K thermocouples
 ## 材料  
 > **SSD1306** OLED显示屏  
 > **MAX6675** K型热电偶模块  
-> **RP2040** 树莓派主控(性能好)
+> **RP2040** 树莓派主控(性能好)  
 > **按钮**和**滑阻**
 ## 接线  
 我用的是SEEED的XIAO RP2040，做完后我就用硅橡胶密封了，接线只能从我的程序里推测  
